@@ -1,2 +1,2 @@
 # Hello-World
-just "Hello github"
+just to say "Hello github"
